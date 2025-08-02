@@ -1,34 +1,36 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+Break-UP Simulator
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Bomb
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Aldona Thomas - St. Joseph College Devagiri
+- Member 2: Sarang K.C - St. Joseph College Devagiri
+
 
 ### Project Description
-[2-3 lines about what your project does]
+Breakup Simulator is a humorous, AI-powered web experience that simulates realistic breakup conversations across various emotional and awkward scenarios for entertainment and emotional exploration.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People crave the emotional chaos of a breakup without the inconvenience of actually being in a relationship. There's no safe space to practice being ghosted, dumped over text, or sent on a guilt trip — until now.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We built an AI-powered Breakup Simulator where you can get dumped, ghosted, or friendzoned — all from the comfort of your browser. Cringey texts? Emotional manipulation? We’ve got levels. Heal from fake heartbreaks before the real one hits!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+HTML
+CSS
+JS
+React
+VS
+Cursor Ai
 
 For Hardware:
 - [List main components]
@@ -41,20 +43,19 @@ For Software:
 [commands]
 
 # Run
-[commands]
+  npm render
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+https://drive.google.com/file/d/1tUfgyx2sy1Wbtp9pI34qbFHdVtAcG2Gz/view?usp=sharing*Add caption explaining what this shows*
+
+https://drive.google.com/file/d/1s8OCKIeBMlRVHvuM98KaZr4p3VUTVr17/view?usp=sharing
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1XY5SSfuv26SIIKvPWp2uBgClnphHHQ2U/view?usp=sharing
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -81,7 +82,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+https://drive.google.com/file/d/1N5ekj9zyWk3YLa9S3wIfgSVkETyDL-Lx/view?usp=sharing
 *Explain what the video demonstrates*
 
 # Additional Demos
